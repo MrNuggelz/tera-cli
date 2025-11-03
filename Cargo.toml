@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 serde_yaml = "0.9.25"
-tera = "1.20.0"
+tera = "1.20.1"
 yaml-rust = "0.4.5"
